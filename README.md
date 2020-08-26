@@ -1,6 +1,12 @@
 # NSS_Mirai_Dataset
 This dataset is captured from a Mirai type botnet attack on an emulated IoT network in OpenStack.
+
+NSS_Mirai_Dataset/tree/master/dataset_1/for_fim/ - alerts coded into a FIM ready format (for both with subnet and without subnet cases)
+NSS_Mirai_Dataset/tree/master/dataset_1/gateways/ - alerts captured at the individual gateways in the FIM ready format (for both with subnet and without subnet cases)
+NSS_Mirai_Dataset/dataset_1/raw_entries/ - raw alerts aggregated at the security manager
+NSS_Mirai_Dataset/dataset_1/sampled_alerts/final_sampled_inputs.csv - all the alerts aggregated at the security manager in a single file
+
 Detailed information on the dataset is depicted in the following work. 
 Please cite it when you use this dataset for your research.
 
-* Kalupahana Liyanage Kushan Sudheera, Dinil Mon Divakaran, RhishiPratap Singh, and Mohan Gurusamy, "ADEPT: Detection and Identification of CorrelatedAttack-Stages in IoT Networks," in IEEE Internet of Things Journal (Under Revision)
+* Kalupahana Liyanage Kushan Sudheera, Dinil Mon Divakaran, Rhishi Pratap Singh, and Mohan Gurusamy, "ADEPT: Detection and Identification of Correlated Attack-Stages in IoT Networks," in IEEE Internet of Things Journal (Under Revision)
