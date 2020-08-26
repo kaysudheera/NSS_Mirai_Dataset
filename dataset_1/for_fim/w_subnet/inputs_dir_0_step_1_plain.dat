@@ -1,0 +1,15 @@
+iot_172.16.0.0 ext_199.198.0.0 sport_6.36548 dport_6.8000 sizeBin_L
+iot_172.16.0.0 ext_192.168.0.0 sport_6.14007 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.65288 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.12922 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.7172 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.5149 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.63214 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_192.168.0.0 sport_6.5674 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_199.198.0.0 sport_6.52985 dport_6.4567 sizeBin_S
+iot_172.16.0.0 ext_199.198.0.0 sport_6.51386 dport_6.4567 sizeBin_M
+iot_172.16.0.0 ext_199.198.0.0 sport_6.51386 dport_6.4567 sizeBin_M
+iot_172.16.0.0 ext_199.198.0.0 sport_6.51386 dport_6.4567 sizeBin_M
+iot_172.16.0.0 ext_www.random.org. sport_6.50604 dport_6.443 sizeBin_L
+iot_172.16.0.0 ext_www.random.org. sport_6.35572 dport_6.443 sizeBin_L
+iot_172.16.0.0 ext_www.random.org. sport_6.55432 dport_6.443 sizeBin_L
