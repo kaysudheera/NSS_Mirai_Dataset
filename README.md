@@ -20,7 +20,7 @@ Please cite it when you use this dataset for your research.
 
 - There is another dataset (dataset_2) in raw alert format captured using the same emulated IoT network, but with a different time duration.
 
-
+---------------------------------------------------------------------------------------------------------------
 Class | Description
 
 Port Scan | Bots scan for open ports of IoT devices
@@ -44,3 +44,4 @@ Attack (DDoS-Volumetric) | All compromised IoT devices execute DDoS attack on a 
 Attack (DDoS-Reflective) | All compromised IoT devices execute reflective DNS DDoS attack on a victim server
 
 Noise | False alerts due to firmware updates, setup changes, etc.
+---------------------------------------------------------------------------------------------------------------
