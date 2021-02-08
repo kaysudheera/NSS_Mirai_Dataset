@@ -10,6 +10,7 @@ This dataset is captured from a Mirai type botnet attack on an emulated IoT netw
 - NSS_Mirai_Dataset/dataset_1/sampled_alerts/
 
     final_sampled_inputs.csv : all the alerts aggregated at the security manager in a single file
+    
     labeled_final_sampled_inputs.csv : all the alerts aggregated at the security manager in a single file with corresponding class labels
 
 Detailed information on the dataset is depicted in the following work. 
