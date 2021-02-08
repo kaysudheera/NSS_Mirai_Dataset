@@ -19,3 +19,15 @@ Please cite it when you use this dataset for your research.
 * Kalupahana Liyanage Kushan Sudheera, Dinil Mon Divakaran, Rhishi Pratap Singh, and Mohan Gurusamy, "ADEPT: Detection and Identification of Correlated Attack-Stages in IoT Networks," in IEEE Internet of Things Journal (Accepted), URL: 10.1109/JIOT.2021.3055937
 
 - There is another dataset (dataset_2) in raw alert format captured using the same emulated IoT network, but with a different time duration.
+
+
+- Class description
+Class | Description
+
+Port Scan | Bots scan for open ports of IoT devices
+
+Scan In | Bots scan for specific vulnerabilities, e.g., status of telnet, ssh ports
+
+Login Attempts | Bots execute dictionary attack on vulnerable IoT devices
+
+Malware Loader| Upload/Download of malware from an external sourceC&C Communication (success)Successful communication sessions with the C&C serverC&C Communication (failure)Failed communication sessions with the C&C serverScan Out (ports)Compromised IoT devices scan for open ports on other IoT devicesScan Out (login)Compromised IoT devices carry out dictionary attack on other vulnerable IoT devicesAttack (DDoS-Volumetric)All compromised IoT devices execute DDoS attack on a victim serverAttack (DDoS-Reflective)All compromised IoT devices execute reflective DNS DDoS attack on a victim serverNoiseFalse alerts due to firmware updates, setup changes, etc
