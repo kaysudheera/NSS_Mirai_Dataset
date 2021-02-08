@@ -1,5 +1,5 @@
 # NSS_Mirai_Dataset
-This dataset is captured from a Mirai type botnet attack on an emulated IoT network in OpenStack.
+This dataset is captured from a Mirai type botnet attack on an emulated IoT network in OpenStack. Experimental setup can be found in setup.pdf.
 
 - NSS_Mirai_Dataset/dataset_1/for_fim/ : alerts coded into a FIM ready format (for both with subnet and without subnet cases)
 
