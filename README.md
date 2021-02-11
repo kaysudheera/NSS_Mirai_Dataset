@@ -18,7 +18,7 @@ This dataset is captured from a Mirai type botnet attack on an emulated IoT netw
 Detailed information on the dataset is depicted in the following work. 
 Please cite it when you use this dataset for your research.
 
-* Kalupahana Liyanage Kushan Sudheera, Dinil Mon Divakaran, Rhishi Pratap Singh, and Mohan Gurusamy, "ADEPT: Detection and Identification of Correlated Attack-Stages in IoT Networks," in IEEE Internet of Things Journal (Accepted), URL: 10.1109/JIOT.2021.3055937
+* Kalupahana Liyanage Kushan Sudheera, Dinil Mon Divakaran, Rhishi Pratap Singh, and Mohan Gurusamy, "ADEPT: Detection and Identification of Correlated Attack-Stages in IoT Networks," in IEEE Internet of Things Journal (Accepted), DOI:10.1109/JIOT.2021.3055937
 
 ---------------------------------------------------------------------------------------------------------------
 Class | Description
